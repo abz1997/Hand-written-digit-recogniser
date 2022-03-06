@@ -1,2 +1,2 @@
-# Machine-Learning
-I made this repository to track my learning and progress in data science and to also build a portfolio 
+# Handwritten digit recogniser
+This repository shows the creation of a handwritten digit recogniser using a covolutional neural network and the mnist dataset
